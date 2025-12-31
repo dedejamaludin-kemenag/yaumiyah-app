@@ -1,0 +1,6 @@
+{
+  "crons": [
+    { "path": "/api/push-daily", "schedule": "0 22 * * *" },
+    { "path": "/api/push-reminder", "schedule": "0 9 * * *" }
+  ]
+}
